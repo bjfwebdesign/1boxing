@@ -8,7 +8,7 @@ import { cn } from "cn";
 const tiers = [
   {
     name: "Open Gym",
-    price: "$89",
+    price: "€70",
     description: "Access to open training hours and community classes.",
     features: [
       "Unlimited open-gym hours",
@@ -19,7 +19,7 @@ const tiers = [
   },
   {
     name: "Unlimited",
-    price: "$149",
+    price: "€120",
     description: "Full access to every group class, including Fight Camp.",
     features: [
       "Everything in Open Gym",
@@ -31,7 +31,7 @@ const tiers = [
   },
   {
     name: "Private",
-    price: "$320",
+    price: "€220",
     description: "One-on-one coaching plus full gym access.",
     features: [
       "Everything in Unlimited",
